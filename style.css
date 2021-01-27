@@ -8,3 +8,22 @@ body{
     border-radius: 10px;
     box-shadow: 5px 5px 10px rgb(132, 153, 223);
 }
+#transaction-area{
+    display: none;
+}
+.status{
+    margin: 0 20px;
+    color: white;
+    padding: 20px; 
+    border-radius: 10px;
+}
+.deposit{
+
+    background-color: slateblue;
+}
+.withdraw{
+    background-color: salmon;
+}
+.balance{
+    background-color: orange;
+}
